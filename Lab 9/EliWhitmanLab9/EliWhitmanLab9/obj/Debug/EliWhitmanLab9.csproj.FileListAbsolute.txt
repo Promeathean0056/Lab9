@@ -1,0 +1,2 @@
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\Lab 9\EliWhitmanLab9\EliWhitmanLab9\obj\Debug\EliWhitmanLab9.csprojAssemblyReference.cache
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\Lab 9\EliWhitmanLab9\EliWhitmanLab9\obj\Debug\EliWhitmanLab9.csproj.CoreCompileInputs.cache
